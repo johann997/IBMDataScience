@@ -2,4 +2,6 @@
 **/*.png
 # Ignore all .DS_Store files in any directory
 **/*.DS_Store
+# Ignore all .pptx files in any directory
+**/*.pptx
 
